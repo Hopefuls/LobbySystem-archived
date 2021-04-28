@@ -1,0 +1,16 @@
+license: "none"
+prefix: "&e&lH&r&6obby&7»&f"
+join-leave-message: true
+menu-name: "&aLobby"
+servers:
+  1: "Server-1"
+  2: "Server-2"
+  3: "Server-3"
+  5: "Server-5"
+  6: "Server-6"
+  7: "Server-7"
+spawn:
+  world: "world"
+  x: 0
+  y: 0
+  z: 0

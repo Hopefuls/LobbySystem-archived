@@ -1,0 +1,18 @@
+main: me.hopedev.LobbySystem.Main
+name: HopeLobby
+version: 1.0
+author: HopeDev
+api-version: 1.13
+description: HopeDev--Hosting-Provided--not applicable
+commands:
+   hobby:
+      description: Hauptbefehl
+      usage: /<command>
+   menu:
+      description: Hauptbefehl
+      usage: /<command>    
+   build:
+      description: Hauptbefehl
+      usage: /<command>       
+
+      

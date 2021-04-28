@@ -1,0 +1,42 @@
+1:
+  item: RED_BED
+  displayname: "&6&lItem 1"
+  lore:
+    - "&eDieser Text gehört"
+    - "&ezum Item 1"
+2:
+  item: IRON_SWORD
+  displayname: "&6&lItem 2"
+  lore:
+    - "&eDieser Text gehört"
+    - "&ezum Item 2"
+3:
+  item: GRASS
+  displayname: "&6&lItem 3"
+  lore:
+    - "&eDieser Text gehört"
+    - "&ezum Item 3"
+4:
+  item: NETHER_STAR
+  displayname: "&6&lSpawn Item 4"
+  lore:
+    - "&eDieser Text gehört"
+    - "&ezum Item 4"
+5:
+  item: FEATHER
+  displayname: "&6&lItem 5"
+  lore:
+    - "&eDieser Text gehört"
+    - "&ezum Item 5"
+6:
+  item: FISHING_ROD
+  displayname: "&6&lItem 6"
+  lore:
+    - "&eDieser Text gehört"
+    - "&ezum Item 6"
+7:
+  item: BLAZE_ROD
+  displayname: "&6&lItem 7"
+  lore:
+    - "&eDieser Text gehört"
+    - "&ezum Item 7"
