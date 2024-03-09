@@ -1,3 +1,12 @@
+### This has been archived as a way to preserve code I've made or have previously used.
+- There is no guarantee this code is still used
+- This code may provoke vulnerability
+- Use at own risk
+
+**Thanks for stopping by nonethelss :)**
+
+---
+
 # LobbySystem-archived
 Old Lobbysystem from 2019
 
